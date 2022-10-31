@@ -1,0 +1,25 @@
+﻿Submission ID,Sample,Tag,sequenceID,#cells,Group,Time,submission date,#total
+2296,Sample1,Tag1,RH1a1,847,Ctrl,1month,11/12/20,
+2296,Sample1,Tag2,RH1b1,1139,Ctrl,1month,11/12/20,
+2296,Sample2,Tag1,RH1a2,317,Ctrl,1month,11/12/20,
+2306,Sample1,Tag1,RH2a1,1140,Ctrl,1month,11/13/20,
+2306,Sample1,Tag2,RH2b1,768,Ctrl,1month,11/13/20,
+2306,Sample2,Tag1,RH2a2,813,Ctrl,1month,11/13/20,5024
+2651,Sample1,Tag1,RH3a1,240,Ctrl,3month,1/7/21,
+2651,Sample1,Tag3,RH3c1,112,Ctrl,3month,1/7/21,
+2651,Sample2,Tag2,RH3b2,276,Ctrl,3month,1/7/21,
+2662,Sample1,Tag1,RH4a1,121,Ctrl,3month,1/8/21,
+2662,Sample1,Tag2,RH4b1,289,Ctrl,3month,1/8/21,
+2662,Sample2,Tag1,RH4a2,276,Ctrl,3month,1/8/21,1314
+2296,Sample1,Tag3,RH1c1,1111,HFD,1month,11/12/20,
+2296,Sample2,Tag2,RH1b2,636,HFD,1month,11/12/20,
+2296,Sample2,Tag3,RH1c2,743,HFD,1month,11/12/20,
+2306,Sample1,Tag3,RH2c1,797,HFD,1month,11/13/20,
+2306,Sample2,Tag2,RH2b2,482,HFD,1month,11/13/20,
+2306,Sample2,Tag3,RH2c2,875,HFD,1month,11/13/20,4644
+2651,Sample1,Tag2,RH3b1,254,HFD,3month,1/7/21,
+2651,Sample2,Tag1,RH3a2,457,HFD,3month,1/7/21,
+2651,Sample2,Tag3,RH3c2,180,HFD,3month,1/7/21,
+2662,Sample1,Tag3,RH4c1,151,HFD,3month,1/8/21,
+2662,Sample2,Tag2,RH4b2,186,HFD,3month,1/8/21,
+2662,Sample2,Tag3,RH4c2,138,HFD,3month,1/8/21,1366
